@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Matttz / Hey! I'm Matttz!
+# 👋 Olá! Eu sou o Matttz! / Hey! I'm Matttz!
 
 ENG: I'm a hobbyist developer who codes for creativity, not for a career.
 
