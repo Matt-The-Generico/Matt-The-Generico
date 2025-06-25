@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: mateusuchoa
+          github_user_name: Matt-The-Generico
           outputs: |
             dist/github-contribution-grid-snake.svg
 
