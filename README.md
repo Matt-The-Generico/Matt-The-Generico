@@ -15,3 +15,4 @@ PTBR: Sou um desenvolvedor amador que programa por criatividade, não por carrei
 
 ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-The-Generico&show_icons=true&theme=tokyonight)
 
+![Snake animation](https://github.com/Matt-The-Generico/Matt-The-Generico/blob/output/dist/github-contribution-grid-snake.svg)
