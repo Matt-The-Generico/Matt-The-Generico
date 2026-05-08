@@ -11,7 +11,3 @@ PTBR: Sou um desenvolvedor amador que programa por criatividade, não por carrei
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-
-## 📈 GitHub Stats
-
-![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matt-The-Generico&show_icons=true&theme=tokyonight)
